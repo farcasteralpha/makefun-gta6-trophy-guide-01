@@ -3,6 +3,7 @@
 [![reward](https://make.fun/badge/gta6-trophy-guide-01/farcasteralpha/makefun-gta6-trophy-guide-01/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
 Built for the [make.fun bounty gta6-trophy-guide-01](https://make.fun/bounty/gta6-trophy-guide-01).
+It walks you from your first story trophy to the platinum with sourced step-by-step guidance, a tickable checklist, a five-stage roadmap, and a dedicated missables page so nothing slips past.
 
 # Leonida Platinum — GTA 6 Trophy Guide & Tracker
 
